@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "item":"gabriel",
+        "local":"andar 67",
+        "data:":"2024-06-10",
+        "valor": 1000,
+        "patrimonio": "nada"
+    },
+    {
+        "id": 2,
+        "item":"gincana",
+        "local":"andar 67",
+        "data:":"2024-06-11",
+        "valor": 1500,
+        "patrimonio": "talvez algo"
+    },
+    {
+        "id": 3,
+        "item":"spleff beberrao",
+        "local":"andar 79",
+        "data:":"2024-12-31",
+        "valor": 3000,
+        "patrimonio": "a alma do gabriel"
+    }
+]
